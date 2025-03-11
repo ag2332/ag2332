@@ -1,9 +1,7 @@
-# Hi 👋 My name is Archie 
-------------------  
+# Hi 👋 My name is Archie  
 
 ## Frontend Developer 
-
-------------------  
+ 
 I’m an aspiring frontend developer with a strong foundation in web technologies, actively looking for opportunities to advance in frontend development. I’m dedicated to creating intuitive, high-performance web applications and constantly striving to expand my skills and embrace new oppotunities  
 
 ------------------  
