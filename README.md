@@ -1,13 +1,17 @@
 Hi 👋 My name is Archie 
+
 =======================  
+
 Frontend Developer 
+
 ------------------  
 I’m an aspiring frontend developer with a strong foundation in web technologies, actively looking for opportunities to advance in frontend development. I’m dedicated to creating intuitive, high-performance web applications and constantly striving to expand my skills and embrace new oppotunities  
 
-* 🌍  I'm based in United Kingdom
+* 🌍  I'm based in the United Kingdom
 * 🖥️  See my portfolio at [MyPortfolio](http://github.com/ag2332/Portfolio)
 * ✉️  You can contact me at [archiegeorge23@gmail.com(mailto:archiegeorge23@gmail.com)
-* 🚀  I'm currently working on [EspressoSync](http://github.com/ag2332/EspressoSync) * 🧠  I'm learning Typescript
+* 🚀  I'm currently working on [EspressoSync](http://github.com/ag2332/EspressoSync)
+* 🧠  I'm learning Typescript
 
 ### My Tech Stack
 
@@ -21,7 +25,7 @@ I’m an aspiring frontend developer with a strong foundation in web technologie
 <strong>FRONTEND: </strong>
 <br />
 <br />
-a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
