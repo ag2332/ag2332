@@ -8,7 +8,7 @@ I’m an aspiring frontend developer with a strong foundation in web technologie
 * 🌍  I'm based in the United Kingdom
 * 🖥️  See my portfolio at [MyPortfolio](https://ag2332.netlify.app/)
 * ✉️  You can contact me at [archiegeorge23@gmail.com](mailto:archiegeorge23@gmail.com)
-* 🚀  I'm currently working on [EspressoSync](http://github.com/ag2332/EspressoSync)
+* 🚀  I'm currently working on [Future Digital Component Library](http://github.com/ag2332/fd-storybook)
 * 🧠  I'm learning Typescript
 
 ------------------  
